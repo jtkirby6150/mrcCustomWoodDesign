@@ -1,0 +1,46 @@
+[08-Jan-2021 01:00:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 56
+[08-Jan-2021 01:00:37 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 99
+[08-Jan-2021 01:02:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 56
+[08-Jan-2021 01:02:56 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 99
+[08-Jan-2021 01:03:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/init.php on line 3
+[07-Jan-2021 18:03:46 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/init.php on line 6
+[07-Jan-2021 18:03:46 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 56
+[07-Jan-2021 18:03:46 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 99
+[08-Jan-2021 01:04:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 56
+[08-Jan-2021 01:04:06 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 99
+[08-Jan-2021 01:05:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 56
+[08-Jan-2021 01:05:40 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 99
+[08-Jan-2021 01:05:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 56
+[08-Jan-2021 01:05:44 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 99
+[08-Jan-2021 01:10:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 56
+[08-Jan-2021 01:10:24 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 99
+[08-Jan-2021 01:11:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 56
+[08-Jan-2021 01:11:36 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 99
+[08-Jan-2021 01:11:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 56
+[08-Jan-2021 01:11:38 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 99
+[08-Jan-2021 01:14:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 56
+[08-Jan-2021 01:14:54 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 99
+[08-Jan-2021 01:15:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 56
+[08-Jan-2021 01:15:26 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 99
+[08-Jan-2021 01:15:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 56
+[08-Jan-2021 01:15:29 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 99
+[08-Jan-2021 01:15:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 56
+[08-Jan-2021 01:15:52 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 99
+[08-Jan-2021 01:15:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 56
+[08-Jan-2021 01:15:54 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 99
+[08-Jan-2021 01:15:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 56
+[08-Jan-2021 01:15:55 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 99
+[08-Jan-2021 01:15:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 56
+[08-Jan-2021 01:15:56 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 99
+[08-Jan-2021 01:17:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 56
+[08-Jan-2021 01:17:04 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 99
+[08-Jan-2021 01:17:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 56
+[08-Jan-2021 01:17:08 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 99
+[08-Jan-2021 01:17:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 56
+[08-Jan-2021 01:17:12 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 99
+[08-Jan-2021 01:20:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 56
+[08-Jan-2021 01:20:47 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 99
+[08-Jan-2021 01:21:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 56
+[08-Jan-2021 01:21:40 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/includes/functions.php on line 99
+[08-Jan-2021 05:56:54 America/Denver] PHP Notice:  Undefined variable: title in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/contactus.php on line 56
+[08-Jan-2021 12:57:39 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/dcdhljm10f1v/public_html/mrccustomwooddesign.com/contactus.php on line 6
